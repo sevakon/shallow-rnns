@@ -3,7 +3,7 @@ This repository is a PyTorch implementation of the paper ["Shallow RNNs: A Metho
 
 
 ## ShaRNN for Streaming Listen Attend Spell (LAS):
-### Results on TIMIT Dataset
+Results on TIMIT Dataset based on Phomene Error Rate
 | Model | PER Paper | PER This Repository |
 | :----------: | :--------: | :--------: | 
 | LAS w/ BLSTM | 0.271 | N/A |
