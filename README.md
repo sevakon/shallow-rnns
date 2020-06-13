@@ -16,6 +16,9 @@ Results on TIMIT Dataset based on Phomene Error Rate
 
 
 
+## Acknowledgements
+I wish to thank VKontakte AI Research team for making this project possible. 
+
 ## References
 
 NIPS Paper http://papers.nips.cc/paper/9451-shallow-rnn-accurate-time-series-classification-on-resource-constrained-devices
